@@ -35,3 +35,4 @@ First You have to click on The Branches:
 
 -recon#0001 on discord
 
+ [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/SudhanPlayz/Discord-MusicBot)
